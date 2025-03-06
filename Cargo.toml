@@ -6,7 +6,7 @@ edition = "2018"
 
 [dependencies]
 structopt = "*"
-rlua = "*"
+rlua = "0.19"
 failure ="*"
 exitfailure ="*"
 serde_json ="*"
